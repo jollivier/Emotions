@@ -1,0 +1,28 @@
+<NC>
+I	PP	I
+</NC>
+<VC>
+like	VVP	like
+</VC>
+<NC>
+the	DT	the
+ponies	NNS	pony
+</NC>
+and	CC	and
+<NC>
+the	DT	the
+small	JJ	small
+dogs	NNS	dog
+</NC>
+.	SENT	.
+<NC>
+This	DT	this
+</NC>
+<VC>
+is	VBZ	be
+</VC>
+<NC>
+my	PP$	my
+birthday	NN	birthday
+</NC>
+!	SENT	!

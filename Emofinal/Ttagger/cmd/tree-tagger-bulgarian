@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# Set these paths appropriately
+
+BIN=/home/thomas/workspace/Emotions/Ttagger/bin
+CMD=/home/thomas/workspace/Emotions/Ttagger/cmd
+LIB=/home/thomas/workspace/Emotions/Ttagger/lib
+
+OPTIONS="-token -lemma -sgml"
+
+TOKENIZER=${CMD}/utf8-tokenize.perl
+TAGGER=${BIN}/tree-tagger
+PARFILE=${LIB}/bulgarian.par
+
+# do tokenization
+$TOKENIZER $* |
+$TAGGER $OPTIONS $PARFILE
