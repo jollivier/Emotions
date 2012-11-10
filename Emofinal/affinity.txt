@@ -1,2 +1,0 @@
-{"type":"like","subject":"this","object":"I","valence":5.5, "modifiable":false}
-

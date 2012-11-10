@@ -1,6 +1,0 @@
-Le	DET:ART	le
-chat	NOM	chat
-mange	VER:pres	manger
-la	DET:ART	le
-souris	NOM	souris
-.	SENT	.
