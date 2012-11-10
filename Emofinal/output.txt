@@ -1,0 +1,11 @@
+<NC>
+I	PP	I
+</NC>
+<VC>
+am	VBP	be
+</VC>
+<NC>
+a	DT	a
+banana	NN	banana
+</NC>
+.	SENT	.
